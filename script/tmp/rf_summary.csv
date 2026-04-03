@@ -1,0 +1,7 @@
+"mtry","RMSE","Rsquared","MAE","RMSESD","RsquaredSD","MAESD","predictors","model","season","preprocess"
+"2","18.11307","0.6419545","13.98486","3.721957","0.10734900","2.878775","satvi, ndvi","rf_1-1","growing","none"
+"2","18.11307","0.6419545","13.98486","3.721957","0.10734900","2.878775","satvi, ndvi","rf_1-2","growing","none"
+"2","19.60517","0.6588132","15.32225","3.859990","0.10635904","3.518710","satvi, ndvi","rf_1-3","growing","smote"
+"2","18.43702","0.6717798","13.98341","3.496593","0.11255626","2.476667","ndvi, satvi, stone","rf_1-4","growing","smote"
+"2","18.08793","0.6103712","14.16192","1.499987","0.05071277","1.413260","satvi, swirRatio, tc_wet","rf_2-1","non-growing","none"
+"2","16.68752","0.6717974","12.77884","1.494546","0.05562626","1.243222","satvi, swirRatio, soil_depth, stone, potassium, ndvi, elevation","rf_2-2","non-growing","none"

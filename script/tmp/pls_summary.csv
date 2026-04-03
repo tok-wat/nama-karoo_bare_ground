@@ -1,0 +1,7 @@
+"","model","season","preprocess","ncomp","predictors"
+"1","pls_1-1","growing","none",2,"savi,evi,swirRatio,osavi,ndvi,satvi"
+"2","pls_1-2","growing","box-cox",2,"msavi,savi,evi_boxcox,swirRatio_boxcox,osavi,ndvi_boxcox,satvi"
+"3","pls_1-3","growing","smote",2,"savi,evi,swirRatio,osavi,ndvi,satvi"
+"4","pls_1-4","growing","box-cox & smote",2,"msavi,evi_boxcox,savi,osavi,swirRatio_boxcox,ndvi_boxcox,satvi"
+"5","pls_2-1","non-growing","none",2,"bsi,osavi,ndvi,swirRatio,ndmi,satvi"
+"6","pls_2-2","non-growing","box-cox",2,"bsi,osavi,ndvi,swirRatio_boxcox,ndmi,satvi"
